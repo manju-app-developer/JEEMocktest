@@ -3,12 +3,12 @@
         "question_id": 1,
         "question": "Placeholder text for Question 1",
         "options": [
-            A,
-            B,
-            C,
-            D
+            "A",
+            "B",
+            "C",
+            "D"
         ],
-        "answer": null,
+        "answer": "B",
         "type": "MCQ",
         "image": "q1.jpg"
     },
