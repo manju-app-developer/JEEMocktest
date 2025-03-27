@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JEE Mains Mock Test</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>JEE Mains Mock Test</h1>
+        <div class="timer">Time Left: <span id="time">03:00:00</span></div>
+    </header>
+
+    <div class="container">
+        <div class="navigation">
+            <h2>Question Navigation</h2>
+            <div id="nav-buttons"></div>
+        </div>
+
+        <div class="exam-section">
+            <h2 id="subject-title">Physics</h2>
+            <div id="question-container">
+                <!-- Questions will be dynamically added here -->
+            </div>
+            <div class="controls">
+                <button id="prev-btn" disabled>Previous</button>
+                <button id="next-btn">Next</button>
+                <button id="end-exam-btn">End Exam</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="score-modal" class="modal">
+        <div class="modal-content">
+            <h2>Exam Completed</h2>
+            <p>Your total score: <span id="total-score"></span></p>
+            <button onclick="location.reload()">Restart</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
