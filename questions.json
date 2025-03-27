@@ -3,10 +3,10 @@
         "question_id": 1,
         "question": "Placeholder text for Question 1",
         "options": [
-            null,
-            null,
-            null,
-            null
+            A,
+            B,
+            C,
+            D
         ],
         "answer": null,
         "type": "MCQ",
