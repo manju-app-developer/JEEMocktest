@@ -1,0 +1,728 @@
+[
+    {
+        "question": "\u23aa\n\u23aa\n2  025 (28 Jan Shift 1) JEE Main Previous Year Paper\nJEE Main 2025 January MathonGo",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "Let O be the origin, the point A be z1 = \u221a3+2\u221a2i, the point B(z2) be such that \u221a3|z2| = |z1| and\narg(z2) = arg(z1)+ \u03c06. Then\n11",
+        "options": [
+            "area of triangle ABO is  (2) ABO is an obtuse angled isosceles triangle",
+            "area of triangle ABO is  (4) ABO is a scalene triangle"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Let f : R \u2192 R be a function defined by f(x) = (2+3a)x2 +(a+2)x+b,a \u2260 1.\u00a0If\u00a0\na\u22121\nf(x+y) = f(x)+f(y)+1\u2212 2xy, then the value of 28\u22115 |f(i)| is\n7 i=1",
+        "options": [
+            "545 (2) 715",
+            "735 (4) 675"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Let ABCD be a trapezium whose vertices lie on the parabola y2 = 4x. Let the sides AD and BC of the\ntrapezium be parallel to y -axis. If the diagonal AC is of length 25 and it passes through the point (1,0), then\n4\nthe area of ABCD is",
+        "options": [
+            "75 (2) = 25",
+            "(4)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The sum of all local minimum values of the function\n\u23a71\u22122x, x < \u22121\nf(x) =\u23a81(7+2|x|), \u22121 \u2264 x \u2264 2\n3\n\u23a9\n11(x\u22124)(x\u22125), x > 2\n18\nis\n157 131",
+        "options": [
+            "(2)",
+            "(4)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Let nCr\u22121 = 28,nCr = 56 and nCr+1 = 70. Let A(4cost,4sint),B(2sint,\u22122cost) and\nC(3r\u2212n,r2 \u2212n\u22121) be the vertices of a triangle ABC, where t is a parameter. If (3x\u22121)2 +(3y)2 = \u03b1, is\nthe locus of the centroid of triangle ABC , then \u03b1 equals",
+        "options": [
+            "6 (2) 18",
+            "8 (4) 20"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Let the equation of the circle, which touches x-axis at the point (a,0),a > 0 and cuts off an intercept of length b\non y-axis be x2 +y2 \u2212\u03b1x+\u03b2y+\u03b3 = 0. If the circle lies below x-axis, then the ordered pair (2a,b2) is equal\nto",
+        "options": [
+            "(\u03b3,\u03b22 \u22124\u03b1) (2) (\u03b1,\u03b22 +4\u03b3)",
+            "(\u03b3,\u03b22 +4\u03b1) (4) (\u03b1,\u03b22 \u22124\u03b3)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "If f(x) = 2x ,x \u2208 R, then \u221181 f( k ) is equal to\n2x+\u221a2 k=1 82",
+        "options": [
+            "1.81\u221a2 (2) 41",
+            "82 (4)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Two number k1 and k2 are randomly chosen from the set of natural numbers. Then, the probability that the\nvalue of ik1 +ik2,(i = \u221a\u22121) is non-zero, equals\n \n2  025 (28 Jan Shift 1) JEE Main Previous Year Paper\nJEE Main 2025 January MathonGo\n1 3",
+        "options": [
+            "(2)",
+            "(4)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "If the image of the point (4,4,3) in the line x\u22121 = y\u22122 = z\u22121 is (\u03b1,\u03b2,\u03b3), then \u03b1+\u03b2+\u03b3 is equal to\n2 1 3",
+        "options": [
+            "9 (2) 12",
+            "7 (4) 8"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": "image_placeholder.png"
+    },
+    {
+        "question": "cos(sin\u22121 3 +sin\u22121 5 +sin\u22121 33) is equal to:\n5 13 65",
+        "options": [
+            "1 (2) 0",
+            "(4)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Let A(x,y,z) be a point in xy-plane, which is equidistant from three points (0,3,2),(2,0,3) and ( 0,0,1 ). Let\nB = (1,4,\u22121) and C = (2,0,\u22122). Then among the statements (S1) : \u25b3ABC is an isosceles right angled\ntriangle, and (S2) : the area of \u25b3ABC is 9\u221a2,\n2",
+        "options": [
+            "both are true (2) only (S2) is true",
+            "only (S1) is true (4) both are false"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The area (in sq. units) of the region {(x,y) : 0 \u2264 y \u2264 2|x|+1,0 \u2264 y \u2264 x2 +1,|x| \u2264 3} is\n80 64",
+        "options": [
+            "(2)",
+            "(4)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The sum, of the squares of all the roots of the equation x2 +|2x\u22123|\u22124 = 0, is",
+        "options": [
+            "3(3\u2212\u221a2) (2) 6(3\u2212\u221a2)",
+            "6(2\u2212\u221a2) (4) 3(2\u2212\u221a2)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Let Tr be the rth\u00a0 term of an A.P. If for some m,Tm = 215,\u00a0T25 = 210, and 20\u22112r=51\u00a0Tr = 13, then\n5\u00a0m\u22112r=\u00a0mm\u00a0Tr is equal to",
+        "options": [
+            "98 (2) 126",
+            "142 (4) 112"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Three defective oranges are accidently mixed with seven good ones and on looking at them, it is not possible\nto differentiate between them. Two oranges are drawn at random from the lot. If x denote the number of\ndefective oranges, then the variance of x is",
+        "options": [
+            "28/75 (2) 18/25",
+            "26/75 (4) 14/25"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Let for some function y = f(x),\u222bxtf(t)dt = x2f(x),x > 0 and f",
+        "options": [
+            "= 3. Then f(6) is equal to",
+            "1 (2) 3",
+            "6 (4) 2"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "If \u222b\u2212\u03c02\u03c0 96(x12+ceoxs)2xdx = \u03c0(\u03b1\u03c02 +\u03b2),\u03b1,\u03b2 \u2208 Z, then (\u03b1+\u03b2)2 equals\n2",
+        "options": [
+            "64 (2) 196",
+            "144 (4) 100"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Let \u27e8an\u27e9 be a sequence such that a0 = 0,a1 = 12 and 2an+2 = 5an+1 \u22123an,n = 0,1,2,3,\u2026. Then \u22111k0=01ak\nis equal to\n \n\u23aa\n\u23aa\n2  025 (28 Jan Shift 1) JEE Main Previous Year Paper\nJEE Main 2025 January MathonGo",
+        "options": [
+            "3a99 \u2212100 (2) 3a100 \u2212100",
+            "3a99 +100 (4) 3a100 +100"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The number of different 5 digit numbers greater than 50000 that can be formed using the digits 0 ,\n1,2,3,4,5,6,7, such that the sum of their first and last digits should not be more than 8 , is",
+        "options": [
+            "4608 (2) 5720",
+            "5719 (4) 4607"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The relation R = {(x,y) : x,y \u2208 Z and x+y is even } is:",
+        "options": [
+            "reflexive and symmetric but not transitive (2) an equivalence relation",
+            "symmetric and transitive but not reflexive (4) reflexive and transitive but not symmetric"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Let f(x) = \u23a8min{1+x+[x],x+2[x]}, 0 \u2264 x \u2264 2 where [.] denotes greatest integer function. If \u03b1 and \u03b2\n\u23a9\n5, x > 2,\nare the number of points, where f is not continuous and is not differentiable, respectively, then \u03b1+\u03b2 equals\n__________",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "Let M denote the set of all real matrices of order 3\u00d73 and let S = {\u22123,\u22122,\u22121,1,2}. Let\nS = {A = [a ] \u2208 M : A = AT\u00a0and\u00a0a \u2208 \u00a0S,\u2200i,j},\n1 ij ij\nS = {A = [a ] \u2208 M : A = \u2212AT\u00a0and\u00a0a \u2208 \u00a0S,\u2200i,j},\n2 ij ij\nS = {A = [a ] \u2208 M : a +a +a = 0\u00a0and\u00a0a \u2208 \u00a0S,\u2200i,j}.\n3 ij 11 22 33 ij\nIf n(\u00a0S1 \u222a2 US3) = 125\u03b1, then \u03b1 equals _______",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "If \u03b1 = 1+\u22116r=1(\u22123)r\u22121 12C2r\u22121, then the distance of the point (12,\u221a3) from the line \u03b1x\u2212\u221a3y+1 = 0\nis _________.",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "Let E1 : x92 + y42 = 1 be an ellipse. Ellipses E1 's are constructed such that their centres and eccentricities are\nsame as that of E1, and the length of minor axis of Ei is the length of major axis of Ei+1(i \u2265 1). If Ai is the\narea of the ellipse Ei, then \u03c05(\u2211\u221ei=1Ai), is equal to",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "Let a\u2192 =^i+^j+k^,\u2192b = 2^i+2^j+k^ and \u2192d = a\u2192\u00d7\u2192b. If\u2192 c is a vector such that a\u2192\u22c5\u2192c = |\u2192c|, |\u2192c\u22122a\u2192|2 = 8 and the\n\u2192 \u2192 \u2192 \u2192 \u2192 \u2192\nangle between d and c is \u03c0, then |10\u22123\u00a0b\u22c5c|+|d\u00d7c|2 is equal to\n4",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "Three infinitely long wires with linear charge density \u03bb are placed along the x\u2212axis,y-axis and z\u2212 axis\nrespectively. Which of the following denotes an equipotential surface?",
+        "options": [
+            "xyz = constant (2) xy+yz+zx = constant",
+            "(x2 +y2)(y2 +z2)(z2 +x2) = constant (4) (x+y)(y+z)(z+x) = constant"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R Assertion\nA: A sound wave has higher speed in solids than gases. Reason R: Gases have higher value of Bulk modulus\nthan solids. In the light of the above statements, choose the correct answer from the options given below\n \n2  025 (28 Jan Shift 1) JEE Main Previous Year Paper\nJEE Main 2025 January MathonGo",
+        "options": [
+            "Both A and R are true but R is NOT the correct (2) A is true but R is false",
+            "A is false but R is true (4) Both A and R are true and R is the correct"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Two capacitors C1 and C2 are connected in parallel to a battery. Charge-time graph is shown below for the two\ncapacitors. The energy stored with them are U1 and U2, respectively. Which of the given statements is true?",
+        "options": [
+            "C2 > C1,U2 < U1 (2) C1 > C2,U1 > U2",
+            "C1 > C2,U1 < U2 (4) C2 > C1,U2 > U1"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": "image_placeholder.png"
+    },
+    {
+        "question": "A thin prism P1 with angle 4\u2218 made of glass having refractive index 1.54 , is combined with another thin prism\nP2 made of glass having refractive index 1.72 to get dispersion without deviation. The angle of the prism P2 in\ndegrees is",
+        "options": [
+            "3 (2) 16/3",
+            "4 (4) 1.5"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "A particle of mass ' m ' and charge ' q ' is fastened to one end ' A ' of a massless string having equilibrium\nlength l, whose other end is fixed at point ' O '. The whole system is placed on a frictionless horizontal plane\nand is initially at rest. If uniform electric field is switched on along the direction as shown in figure, then the\nspeed of the particle when it crosses the x -axis is",
+        "options": [
+            "\u221aqEl (2) \u221aqEl",
+            "\u221aqEl (4) \u221a2qEl"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": "image_placeholder.png"
+    },
+    {
+        "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: In a central force field, the work done is independent of the path chosen. Reason R: Every force\nencountered in mechanics does not have an associated potential energy. In the light of the above statements,\nchoose the most appropriate answer from the options given below\n \n2  025 (28 Jan Shift 1) JEE Main Previous Year Paper\nJEE Main 2025 January MathonGo",
+        "options": [
+            "A is false but R is true (2) Both A and R are true but R is NOT the correct",
+            "A is true but R is false (4) Both A and R are true and R is the correct"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Choose the correct nuclear process from the below options [p: proton, n : neutron, e\u2212: electron, e+: positron,\nv : neutrino, v\u00af : antineutrino]",
+        "options": [
+            "n \u2192 p+e+ +v\u00af (2) n \u2192 p+e+ +v",
+            "n \u2192 p+e\u2212 +v (4) n \u2192 p+e\u2212 +v\u00af"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "A hemispherical vessel is completely filled with a liquid of refractive index \u03bc. A small coin is kept at the\nlowest point (O) of the vessel as shown in figure. The minimum value of the refractive index of the liquid so\nthat a person can see the coin from point E (at the level of the vessel) is",
+        "options": [
+            "\u221a3 (2) \u221a3",
+            "3 (4) \u221a2"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": "image_placeholder.png"
+    },
+    {
+        "question": "A Carnot engine (E) is working between two temperatures 473 K and 273 K . In a new system two engines -\nengine E1 works between 473 K to 373 K and engine E2 works between 373 K to 273 K . If \u03b712,\u03b71 and \u03b72 are\nthe efficiencies of the engines E,E1 and E2, respectively, then",
+        "options": [
+            "\u03b712 = \u03b71\u03b72 (2) \u03b712 \u2265 \u03b71 +\u03b72",
+            "\u03b712 = \u03b71 +\u03b72 (4) \u03b712 < \u03b71 +\u03b72"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Consider a long thin conducting wire carrying a uniform current I. A particle having mass \" M \" and charge \" q\n\" is released at a distance \" a \" from the wire with a speed v0 along the direction of current in the wire. The\nparticle gets attracted to the wire due to magnetic force. The particle turns round when it is at distance x from\nthe wire. The value of x is [ \u03bc0 is vacuum permeability]",
+        "options": [
+            "ae\u22124q\u03c0\u03bcmovIo (2) a[1\u2212 mvo ]",
+            "a[1\u2212 mv ] (4) a"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "A wire of resistance R is bent into an equilateral triangle and an identical wire is bent into a square. The ratio\nof resistance between the two end points of an edge of the triangle to that of the square is Options",
+        "options": [
+            "8/9 (2) 27/32",
+            "32/27 (4) 9/8"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "In the experiment for measurement of viscosity ' \u03b7 ' of given liquid with a ball having radius R, consider\nfollowing statements. A. Graph between terminal velocity V and R will be a parabola. B. The terminal\nvelocities of different diameter balls are constant for a given liquid. C. Measurement of terminal velocity is\ndependent on the temperature. D. This experiment can be utilized to assess the density of a given liquid. E. If\n \n2  025 (28 Jan Shift 1) JEE Main Previous Year Paper\nJEE Main 2025 January MathonGo\nballs are dropped with some initial speed, the value of \u03b7 will change. Choose the correct answer from the\noptions given below:",
+        "options": [
+            "A,B and E Only (2) B, D and E Only",
+            "A, C and D Only (4) C, D and E Only"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": "image_placeholder.png"
+    },
+    {
+        "question": "Due to presence of an em-wave whose electric component is given by E = 100sin(\u03c9t\u2212kx)NC\u22121, a cylinder\nof length 200 cm holds certain amount of em-energy inside it. If another cylinder of same length but half\ndiameter than previous one holds same amount of em-energy, the magnitude of the electric field of the\ncorresponding em-wave should be modified as",
+        "options": [
+            "400sin(\u03c9t\u2212kx)NC\u22121 (2) 200sin(\u03c9t\u2212kx)NC\u22121",
+            "50sin(\u03c9t\u2212kx)NC\u22121 (4) 25sin(\u03c9t\u2212kx)NC\u22121"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "A bead of mass ' m ' slides without friction on the wall of a vertical circular hoop of radius ' R ' as shown in\nfigure. The bead moves under the combined action of gravity and a massless spring ( k ) attached to the bottom\nof the hoop. The equilibrium length of the spring is ' R '. If the bead is released from top of the hoop with\n(negligible) zero initial speed, velocity of bead, when the length of spring becomes ' R ', would be (spring\nconstant is ' k ', g is accleration due to gravity)",
+        "options": [
+            "\u221a3Rg+ kR2 (2) 2\u221agR+ kR2",
+            "\u221a2Rg+ kR2 (4) \u221a2Rg+ 4kR2"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": "image_placeholder.png"
+    },
+    {
+        "question": "Find the equivalent resistance between two ends of the following circuit\nr r",
+        "options": [
+            "(2)",
+            "r (4)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Consider following statements: A. Surface tension arises due to extra energy of the molecules at the interior as\ncompared to the molecules at the surface, of a liquid. B. As the temperature of liquid rises, the coefficient of\nviscosity increases. C. As the temperature of gas increases, the coefficient of viscosity increases D. The onset\nof turbulence is determined by Reynold's number. E. In a steady flow two stream lines never intersect. Choose\nthe correct answer from the options given below:\n \n2  025 (28 Jan Shift 1) JEE Main Previous Year Paper\nJEE Main 2025 January MathonGo",
+        "options": [
+            "C, D, E Only (2) A, D, E Only",
+            "B, C, D Only (4) A, B, C Only"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The center of mass of a thin rectangular plate (fig - x ) with sides of length a and b, whose mass per unit area\n(\u03c3) varies as \u03c3 = \u03c3a0bx (where \u03c30 is a constant), would be",
+        "options": [
+            "(2a, \u00a0b) (2) (a, \u00a0b)",
+            "(1a, \u00a0b) (4) (2a, 2b)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Which of the following circuits has the same outpur as that of the given circuit?",
+        "options": [
+            "(2)",
+            "(4)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "For a particular ideal gas which of the following graphs represents the variation of mean squared velocity of\nthe gas molecules with temperature?\n \n2  025 (28 Jan Shift 1) JEE Main Previous Year Paper\nJEE Main 2025 January MathonGo",
+        "options": [
+            "(2)",
+            "(4)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": "image_placeholder.png"
+    },
+    {
+        "question": "A proton of mass ' mp ' has same energy as that of a photon of wavelength ' \u03bb '. If the proton is moving at non-\nrelativistic speed, then ratio of its de Broglie wavelength to the wavelength of photon is.",
+        "options": [
+            "1\u221a E (2) 1\u221a 2E",
+            "1 \u221a E (4) 1\u221a E"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "A double slit interference experiment performed with a light of wavelength 600 nm forms an interference\nfringe pattern on a screen with 10 th bright fringe having its centre at a distance of 10 mm from the central\nmaximum. Distance of the centre of the same 10th bright fringe from the central maximum when the source of\nlight is replaced by another source of wavelength 660 nm would be _________ mm .",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "In a measurement, it is asked to find modulus of elasticity per unit torque applied on the system. The measured\nquantity has dimension of [MaLbTc]. If b = \u22123, the value of c is ________",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "A tiny metallic rectangular sheet has length and breadth of 5 mm and 2.5 mm , respectively. Using a specially\ndesigned screw gauge which has pitch of 0.75 mm and 15 divisions in the circular scale, you are asked to find\nthe area of the sheet. In this measurement, the maximum fractional error will be  x  where x is _________.\n100",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "Two iron solid discs of negligible thickness have radii R1 and R2 and moment of intertia I1 and I2,\nrespectively. For R2 = 2R1, the ratio of I1 and I2 would be 1/x, where x = ________ -",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "The moment of inertia of a solid disc rotating along its diameter is 2.5 times higher than the moment of inertia\nof a ring rotating in similar way. The moment of inertia of a solid sphere which has same radius as the disc and\nrotating in similar way, is n times higher than the moment of inertia of the given ring. Here,\n$\\mathrm{n}=_________ Consider all the bodies have equal masses.",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "Given below are two statements: Statement I : D-glucose pentaacetate reacts with 2, 4-dinitrophenylhydrazine\nStatement II : Starch, on heating with concentrated sulfuric acid at 100\u2218C and 2-3 atmosphere pressure\nproduces glucose. In the light of the above statements, choose the correct answer from the options given below\n \n2  025 (28 Jan Shift 1) JEE Main Previous Year Paper\nJEE Main 2025 January MathonGo",
+        "options": [
+            "Statement I is false but Statement II is true (2) Both Statement I and Statement II are false",
+            "Both Statement I and Statement II are true (4) Statement I is true but Statement II is false"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Both acetaldehyde and acetone (individually) undergo which of the following reactions? A. Iodoform Reaction\nB. Cannizaro Reaction C. Aldol Condensation D. Tollen's Test E. Clemmensen Reduction Choose the correct\nanswer from the options given below:",
+        "options": [
+            "A, B and D Only (2) C and E Only",
+            "A, C and E Only (4) B, C and D Only"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Which of the following oxidation reactions are carried out by both K2Cr2O7 and KMnO4 in acidic medium?\nA. \u0393\u2212 \u2192 I2 B. S2\u2212 \u2192 S C. Fe2+ \u2192 Fe3+ D. \u0393\u2212 \u2192 IO3\u2212 E. S2O32\u2212 \u2192 SO42\u2212 Choose the correct answer\nfrom the options given below:",
+        "options": [
+            "C, D and E Only (2) B, C and D Only",
+            "A, D and E Only (4) A, B and C Only"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "A molecule (\" P \") on treatment with acid undergoes rearrangement and gives (\"Q\"). (\"Q\") on ozonolysis\nfollowed by reflux under alkaline condition gives (\" R \"). The structure of (\" R \") is given below.\nThe structure of (\" P\u2032\u2032 ) is",
+        "options": [
+            "(2)",
+            "(4)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The correct order of stability of following carbocations is :",
+        "options": [
+            "C > B > A > D (2) A > B > C > D",
+            "B > C > A > D (4) C > A > B > D"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The products A and B in the following reactions, respectively are\n\u2212A A\u27f7g\u2212NO2 CH \u2212CH \u2212CH \u2212Br AgC\u2192N B\n3 2 2",
+        "options": [
+            "CH3 \u2212CH2 \u2212CH2 \u2212NO2,CH3 \u2212CH2 \u2212CH2 \u2212CN",
+            "CH3 \u2212CH2 \u2212CH2 \u2212ONO,CH3 \u2212CH2 \u2212CH2 \u2212NC",
+            "CH3 \u2212CH2 \u2212CH2 \u2212ONO,CH3 \u2212CH2 \u2212CH2 \u2212CN",
+            "CH3 \u2212CH2 \u2212CH2 \u2212NO2,CH3 \u2212CH2 \u2212CH2 \u2212NC"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "In a multielectron atom, which of the following orbitals described by three quantum numbers will have same\nenergy in absence of electric and magnetic fields? A. n = 1,l = 0,\u00a0m1 = 0 B. n = 2,l = 0,\u00a0m1 = 0 C.\nn = 2,l = 1,\u00a0m1 = 1 D. n = 3,l = 2,\u00a0m1 = 1 E. n = 3,l = 2,\u00a0m1 = 0 Choose the correct answer from the\noptions given below:",
+        "options": [
+            "B and C Only (2) A and B Only",
+            "C and D Only (4) D and E Only"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "A weak acid HA has degree of dissociation x . Which option gives the correct expression of ( pH pKa )?",
+        "options": [
+            "0 (2) log(1+2x)",
+            "log(1\u2212x) (4) log( x )"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The molecules having square pyramidal geometry are",
+        "options": [
+            "BrF5&PCl5 (2) SbF5&PCl5",
+            "SbF5&XeOF4 (4) BrF5&XeOF4"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Consider the following elements In,Tl,Al,Pb,Sn and Ge . The most stable oxidation states of elements with\nhighest and lowest first ionisation enthalpies, respectively, are",
+        "options": [
+            "+4 and +1 (2) +1 and +4",
+            "+4 and +3 (4) +2 and +3"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "For a given reaction R \u2192 P,t1/2 is related to [A]0 as given in table. Given: log2 = 0.30 Which of the\nfollowing is true? A. The order of the reaction is 1/2. B. If [A]0 is 1 M , then t1/2 is 200\u221a10\u00a0min C. The order\nof the reaction changes to 1 if the concentration of reactant changes from 0.100 M to 0.500 M . D. t1/2 is 800\nmin for [A]0 = 1.6M Choose the correct answer from the options given below: Options",
+        "options": [
+            "A and C Only (2) A, B and D Only",
+            "C and D Only (4) A and B Only"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Match the LIST-I with LIST-II\nChoose the correct answer from the options given below:",
+        "options": [
+            "A-II, B-III, C-I, D-IV (2) A-III, B-IV, C-I, D-II",
+            "A-IV, B-I, C-II, D-III (4) A-II, B-III, C-IV, D-I"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Given below are two statements: Statement I: In the oxalic acid vs KMnO4 (in the presence of dil H2SO4 )\ntitration the solution needs to be heated initially to 60\u2218C, but no heating is required in Ferrous ammonium\nsulphate (FAS) vs KMnO4 titration (in the presence of dil H2SO4 ) Statement II: In oxalic acid vs KMnO4\ntitration, the initial formation of MnSO4 takes place at high temperature, which then acts as catalyst for further\nreaction. In the case of FAS vs KMnO4, heating oxidizes Fe2+ into Fe3+ by oxygen of air and error may be\nintroduced in the experiment. In the light of the above statements, choose the correct answer from the options\ngiven below",
+        "options": [
+            "Both Statement I and Statement II are false (2) Both Statement I and Statement II are true",
+            "Statement I is false but Statement II is true (4) Statement I is true but Statement II is false"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The metal ion whose electronic configuration is not affected by the nature of the ligand and which gives a\nviolet colour in non-luminous flame under hot condition in borax bead test is",
+        "options": [
+            "Mn2+ (2) Cr3+",
+            "Ni2+ (4) Ti3+"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The compounds that produce CO2 with aqueous NaHCO3 solution are: A. \nB.\nC.\nD.\nE.\nChoose the correct answer from the options given below:",
+        "options": [
+            "A, C and D Only (2) A, B and E Only",
+            "A and C Only (4) A and B Only"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "What is the freezing point depression constant of a solvent, 50 g of which contain 1 g non volatile solute\n(molar mass 256\u00a0g\u00a0mol\u22121 ) and the decrease in freezing point is 0.40 K ?",
+        "options": [
+            "3.72\u00a0K\u00a0kg\u00a0mol\u22121 (2) 1.86\u00a0K\u00a0kg\u00a0mol\u22121",
+            "4.43\u00a0K\u00a0kg\u00a0mol\u22121 (4) 5.12\u00a0K\u00a0kg\u00a0mol\u22121"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Given below are two statements:\ninvolving lone pair of electrons on nitrogen. In the light of the above statements, choose the most appropriate\nanswer from the options given below",
+        "options": [
+            "Statement I is incorrect but Statement II is (2) Statement I is correct but Statement II is",
+            "Both Statement I and Statement II are correct (4) Both Statement I and Statement II are incorrect"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Ice and water are placed in a closed container at a pressure of 1 atm and temperature 273.15 K . If pressure of\nthe system is increased 2 times, keeping temperature constant, then identify correct observation from following",
+        "options": [
+            "Volume of system increases . (2) The solid phase (ice) disappears completely.",
+            "Liquid phase disappears completely. (4) The amount of ice decreases."
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The incorrect decreasing order of atomic radii is",
+        "options": [
+            "Si > P > Cl > F (2) Be > Mg > Al > Si",
+            "Al > B > N > F (4) Mg > Al > C > O"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "Consider ' n ' is the number of lone pair of electrons present in the equatorial position of the most stable\nstructure of ClF3. The ions from the following with ' n ' number of unpaired electrons are A. V3+ B. Ti3+ C.\nCu2+ D. Ni2+ E. Ti2+ Choose the correct answer from the options given below:",
+        "options": [
+            "A and C Only (2) A, D and E Only",
+            "B and D Only (4) B and C Only"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    },
+    {
+        "question": "The formation enthalpies, \u0394Hf\u2296 for H(g) and O(g) are 220.0 and 250.0\u00a0kJ\u00a0mol\u22121, respectively, at 298.15 K ,\nand \u0394Hf\u2296 for H2O(g) is \u2212242.0\u00a0kJ\u00a0mol\u22121 at the same temperature. The average bond enthalpy of the O\u2212H\nbond in water at 298.15 K is __________ kJmol\u22121 (nearest integer).",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "The molarity of a 70% (mass / mass) aqueous solution of a monobasic acid (X) is __________ \u00d710\u22121\nM(Nearest integer) [Given: Density of aqueous solution of (X) is 1.25\u00a0g\u00a0mL\u22121 Molar mass of the acid is\n70\u00a0g\u00a0mol\u22121 ]\n \n2  025 (28 Jan Shift 1) JEE Main Previous Year Paper\nJEE Main 2025 January MathonGo",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "Consider the following sequence of reactions:\n11.25 mg of chlorobenzene will produce __________ \u00d710\u22121mg of product B . (Consider the reactions result\nin complete conversion.) [Given molar mass of C,H,O,N and Cl as 12,1,16,14 and 35.5\u00a0g\u00a0mol\u22121\nrespectively]",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "Quantitative analysis of an organic compound (X) shows following \\% composition. C : 14.5% Cl : 64.46\\%\nH: 1.8 \\% (Empirical formula mass of the compound (X) is __________ \u00d710\u22121 (Given molar mass in gmol\u22121\nof C : 12,H : 1,O : 16,Cl : 35.5 )",
+        "options": null,
+        "answer": null,
+        "type": "Integer",
+        "image": null
+    },
+    {
+        "question": "Given below is the plot of the molar conductivity vs \u221a\u00a0concentration\u00a0 for KCl in aqueous solution.\nIf, for the higher concentration of KCl solution, the resistance of the conductivity cell is 100\u03a9, then the\nresistance of the same cell with the dilute solution is ' x ' \u03a9 The value of x is __________ (Nearest integer)\n \n 2025 (28 Jan Shift 1) JEE Main Previous Year Paper\nJEE Main 2025 January MathonGo\nANSWER KEYS\n1.",
+        "options": [
+            "2. (4) 3. (1) 4. (1) 5. (4) 6. (4) 7. (4) 8. (2)",
+            "10. (2) 11. (3) 12. (2) 13. (3) 14. (2) 15. (1) 16. (1)",
+            "18. (2) 19. (4) 20. (2) 21. (5) 22. (1613) 23. (5) 24. (54)",
+            "26. (3) 27. (2) 28. (4) 29. (1) 30. (2) 31. (2) 32. (4)",
+            "34. (4) 35. (1) 36. (3) 37. (3) 38. (2) 39. (1) 40. (1)",
+            "42. (1) 43. (2) 44. (2) 45. (4) 46. (11) 47. (0) 48. (3)",
+            "50. (4) 51. (1) 52. (3) 53. (4) 54. (4) 55. (4) 56. (4)",
+            "58. (4) 59. (4) 60. (3) 61. (2) 62. (4) 63. (2) 64. (3)",
+            "66. (4) 67. (3) 68. (2) 69. (2) 70. (2) 71. (466) 72. (125)",
+            "74. (1655) 75. (150)"
+        ],
+        "answer": null,
+        "type": "MCQ",
+        "image": null
+    }
+]
